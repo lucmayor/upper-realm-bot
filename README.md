@@ -1,6 +1,7 @@
 personal project bot for luc mayor... WIP
 
 features:
+
     currently implemented:
     - "choose": allows user to ask bot to choose from selection of prompts given at random.
     - "roll": allows user to ask bot to choose a random number given a higher end of range.
